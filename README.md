@@ -1,7 +1,7 @@
 # tableau-spatial-data
 
 Tableau supports the use of spatial files to https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm . 
-Download HK administrative areas from: http://www.diva-gis.org/gdata. 
+Download HK administrative areas from: http://www.diva-gis.org/gdata
 (please, find zip file in attachments as well).
 
 Example:
