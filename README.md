@@ -1,6 +1,6 @@
 # tableau-spatial-data
 
-Tableau supports the use of spatial files to https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm 
+Tableau supports the use of spatial files to https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm
 
 Please, find zip file in the repo.
 
